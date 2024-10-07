@@ -7,7 +7,7 @@
 
 
 body{
-    background-color: bisque;
+    background-color: #E2F1E7;
     font-family: Bai Janjuree , sans-serif;
 }
 
@@ -24,3 +24,27 @@ footer p{
     font-size: 0.6rem;
     margin: 0.5rem;
 }
+
+#container{
+    display: flex;
+}
+.cartao{
+    margin: 2rem;
+    height: 20rem;
+    background-color: #629584;
+
+}
+.cartao-conteudo{
+    text-align: center;
+    height: 100%;
+}
+.cartao-conteudo h3{
+    background-color: #387478;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
+
