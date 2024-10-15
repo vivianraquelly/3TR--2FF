@@ -7,8 +7,9 @@
 
 
 body{
-    background-color: #E2F1E7;
+    background: url(img/bg-desktop.webp);
     font-family: Bai Janjuree , sans-serif;
+
 }
 
 footer{
@@ -37,9 +38,11 @@ footer p{
 .cartao-conteudo{
     text-align: center;
     height: 100%;
+    padding: 20px;
 }
 .cartao-conteudo h3{
     background-color: #387478;
+    color: wheat;
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -48,7 +51,8 @@ footer p{
     font-size: 1vw;
 }
  .cartao-conteudo-perguntas{
- color:var
+ color:var(--cor-do-texto);
+ font-weight: 1000;
 
 
 
