@@ -27,12 +27,14 @@ footer p{
 }
 
 #container{
-    display: flex;
+    display: flex;  
+    flex-wrap: wrap;
 }
 .cartao{
     margin: 2rem;
     height: 20rem;
     background-color: #629584;
+
 
 }
 .cartao:hover .cartao-conteudo{
