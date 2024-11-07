@@ -36,7 +36,7 @@ footer p{
 }
 .cartao-conteudo{
     text-align: center;
-    height: 100%;
+    height: 80%;
 }
 .cartao-conteudo h3{
     background-color: #387478;
@@ -49,6 +49,13 @@ footer p{
 }
  .cartao-conteudo-perguntas{
  color:var
+
+ }
+ .cartao-conteudo-pergunta p{
+    padding-top: 70px
+    font-weight 500;
+    color var (--text-color);
+
 
 
 
